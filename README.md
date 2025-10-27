@@ -1,0 +1,1 @@
+A time series project I made. Used EMA and Rolling statistics to get data and see what strategies would work best with the chosen stocks.
